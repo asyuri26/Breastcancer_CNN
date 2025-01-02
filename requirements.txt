@@ -1,1 +1,7 @@
 streamlit
+torch
+DataLoader
+scikit-image
+numpy
+Pillow
+torchvision
