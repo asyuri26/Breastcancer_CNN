@@ -1,4 +1,4 @@
-# Multi-Layer Perceptron - Multimodal Breast Cancer Classification
+# CNN - Multimodal Breast Cancer Classification
 
 This repository contains a project focused on implementing a Convolutional Neural Network (CNN) for breast cancer classification using a private dataset. The application is built using Streamlit for easy accessibility and interaction during local testing.
 
